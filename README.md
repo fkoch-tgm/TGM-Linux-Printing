@@ -21,7 +21,7 @@ Open the CUPS Web-Interface: [http://localhost:631/admin](http://localhost:631/a
  - choose **Windows Printer via SAMBA**
  - enter `smb://`*USERNAME*`:`_PASSWORD_`@TGM/printsrv-01.tgm.ac.at/followyou` as url
  - name as you like
- - choose a PPD-File that supports PCL (for example [pxlcolor](https://www.openprinting.org/printer/Generic/Generic-PCL_6_PCL_XL_Printer)
+ - choose a PPD-File that supports PCL (for example [pxlcolor](https://www.openprinting.org/printer/Generic/Generic-PCL_6_PCL_XL_Printer))
  
 ## Problems
 ### Firefox PDF Reader
