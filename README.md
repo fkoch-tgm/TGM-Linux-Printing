@@ -19,7 +19,7 @@ _restart_
 Open the CUPS Web-Interface: [http://localhost:631/admin](http://localhost:631/admin)
  - add a new printer
  - choose **Windows Printer via SAMBA**
- - enter `smb://`_<username>_`:`_<password>_`@TGM/printsrv-01.tgm.ac.at/followyou`
+ - enter `smb://`*USERNAME*`:`_PASSWORD_`@TGM/printsrv-01.tgm.ac.at/followyou` as url
  - name as you like
  - choose a PPD-File that supports PCL (for example [pxlcolor](https://www.openprinting.org/printer/Generic/Generic-PCL_6_PCL_XL_Printer)
  
