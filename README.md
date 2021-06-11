@@ -28,6 +28,7 @@ Open the CUPS Web-Interface: [http://localhost:631/admin](http://localhost:631/a
 I cant use the internal print dialog from firefox, but it works if I click on *use system dialog*.
 
 ### It doesnt work
+Just try to restart the printer in Gnome Settings 
 
 ## Helpful Links
  * "Drucker Installation unter MacOS"; TGM HIT How-To's [online](https://portal.tgm.ac.at/Anleitungen/TGM-Drucker-Installation-unter-MacOS.pdf)
